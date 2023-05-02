@@ -1,0 +1,10 @@
+export * as API_AUTH from './auth';
+export * as API_EXCHANGE from './exchange';
+export * as API_BOT from './bot';
+export * as API_TELEBOT from './telebot';
+export * as API_COPYTRADE from './copytrade';
+export * as API_WALLET from './wallet';
+export * as API_AFFILIATE from './affiliate';
+export * as API_BO from './bo';
+export * as API_JACKPOT from './jackpot';
+export * as API_ADMIN from './admin';

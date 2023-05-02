@@ -1,0 +1,231 @@
+[
+  {
+    "id": 0,
+    "name": "Money AI",
+    "protocol": "http",
+    "hostname": [
+      "localhost:3301"
+    ],
+    "hostname_web": [
+      "localhost:3302"
+    ],
+    "system_id": "bottrade_web",
+    "client_list": [
+      "bullpro-web",
+      "ladytrade-web",
+      "rosichi-web",
+      "tlctrade-web"
+    ],
+    "themeColorPresets": "blue",
+    "client_default": "ladytrade-web"
+  },
+  {
+    "id": 1,
+    "name": "Money AI",
+    "protocol": "https",
+    "hostname": [
+      "api.money-ai.io"
+    ],
+    "hostname_web": [
+      "web.money-ai.io"
+    ],
+    "system_id": "bottrade_web",
+    "client_list": [
+      "bullpro-web",
+      "ladytrade-web",
+      "rosichi-web",
+      "tlctrade-web"
+    ],
+    "themeColorPresets": "blue",
+    "client_default": "ladytrade-web"
+  },
+  {
+    "id": 2,
+    "name": "System AI",
+    "protocol": "https",
+    "hostname": [
+      "api.systemai.io"
+    ],
+    "hostname_web": [
+      "web.systemai.io"
+    ],
+    "system_id": "bottrade_web",
+    "client_list": [
+      "bullpro-web",
+      "ladytrade-web",
+      "rosichi-web",
+      "tlctrade-web"
+    ],
+    "themeColorPresets": "blue",
+    "client_default": "bullpro-web"
+  },
+  {
+    "id": 3,
+    "name": "Rich AI",
+    "protocol": "https",
+    "hostname": [
+      "api.richbot.io"
+    ],
+    "hostname_web": [
+      "web.richbot.io"
+    ],
+    "system_id": "bottrade_web",
+    "client_list": [
+      "bullpro-web",
+      "ladytrade-web",
+      "rosichi-web",
+      "tlctrade-web"
+    ],
+    "themeColorPresets": "blue",
+    "client_default": "ladytrade-web"
+  },
+  {
+    "id": 4,
+    "name": "SMMO",
+    "protocol": "https",
+    "hostname": [
+      "api.smmo.io",
+      "api.btsai.trade",
+      "api.btsai.vip"
+    ],
+    "hostname_web": [
+      "web.smmo.io",
+      "web.btsai.trade",
+      "web.btsai.vip"
+    ],
+    "system_id": "bottrade_web",
+    "client_list": [
+      "ladytrade-web",
+      "bullpro-web"
+    ],
+    "themeColorPresets": "orange",
+    "client_default": "ladytrade-web"
+  },
+  {
+    "id": 5,
+    "name": "BullBear AI",
+    "protocol": "https",
+    "hostname": [
+      "api.bullbear.io"
+    ],
+    "hostname_web": [
+      "web.bullbear.io"
+    ],
+    "system_id": "bottrade_web",
+    "client_list": [
+      "bullpro-web",
+      "ladytrade-web",
+      "rosichi-web",
+      "tlctrade-web"
+    ],
+    "themeColorPresets": "default",
+    "client_default": "ladytrade-web"
+  },
+  {
+    "id": 6,
+    "name": "MasterAI",
+    "protocol": "https",
+    "hostname": [
+      "api.masterai.asia",
+      "api.masterai.io",
+      "api.diamondbot.io"
+    ],
+    "hostname_web": [
+      "web.masterai.asia",
+      "web.masterai.io",
+      "web.diamondbot.io"
+    ],
+    "system_id": "bottrade_web",
+    "client_list": [
+      "bullpro-web",
+      "ladytrade-web",
+      "rosichi-web",
+      "tlctrade-web"
+    ],
+    "themeColorPresets": "blue",
+    "client_default": "ladytrade-web"
+  },
+  {
+    "id": 7,
+    "name": "Master-Tech",
+    "protocol": "https",
+    "hostname": [
+      "api.master-tech.io"
+    ],
+    "hostname_web": [
+      "web.master-tech.io"
+    ],
+    "system_id": "bottrade_web",
+    "client_list": [
+      "ladytrade-web"
+    ],
+    "themeColorPresets": "purple",
+    "client_default": "ladytrade-web"
+  },
+  {
+    "id": 8,
+    "name": "HitechAI",
+    "protocol": "https",
+    "hostname": [
+      "api.hitechai.io",
+      "api.hitechai.asia"
+    ],
+    "hostname_web": [
+      "web.hitechai.io",
+      "web.hitechai.asia"
+    ],
+    "system_id": "bottrade_web",
+    "client_list": [
+      "bullpro-web",
+      "ladytrade-web",
+      "rosichi-web",
+      "tlctrade-web"
+    ],
+    "themeColorPresets": "blue",
+    "client_default": "tlctrade-web"
+  },
+  {
+    "id": 9,
+    "name": "MasterAILPC",
+    "protocol": "https",
+    "hostname": [
+      "api.masterailpc.io"
+    ],
+    "hostname_web": [
+      "web.masterailpc.io"
+    ],
+    "system_id": "bottrade_web",
+    "client_list": [
+      "bullpro-web",
+      "ladytrade-web",
+      "rosichi-web",
+      "tlctrade-web"
+    ],
+    "themeColorPresets": "red",
+    "client_default": "tlctrade-web"
+  },
+  {
+    "id": 10,
+    "name": "KingAI",
+    "protocol": "https",
+    "hostname": [
+      "api.kingai.trade",
+      "api.kingai1.trade",
+      "api.money9.io"
+    ],
+    "hostname_web": [
+      "web.kingai.trade",
+      "web.kingai1.trade",
+      "web.money9.io"
+    ],
+    "system_id": "bottrade_web",
+    "client_list": [
+      "bullpro-web",
+      "ladytrade-web",
+      "rosichi-web",
+      "tlctrade-web"
+    ],
+    "themeColorPresets": "orange",
+    "client_default": "tlctrade-web"
+  }
+]
